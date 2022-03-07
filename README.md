@@ -1,1 +1,1 @@
-# AI_Split_Folder
+# AI_Split_Folder_Image
